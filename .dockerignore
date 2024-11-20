@@ -1,0 +1,6 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+crud-completo-nodejs-express-mysql-urian-viera.png
+BD
